@@ -1,0 +1,61 @@
+
+nav ul{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+nav li{
+    display: inline;
+    margin-left: 150px;
+    font-size: 23px;
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#name{
+    font-size: 70px;
+    margin-left: 150px;
+    margin-top: 13%;
+
+}
+#prof{
+    font-size: 30px;
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+.button1 button{
+    margin-left: 150px;
+    margin-top: -30px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(159, 155, 155);
+}
+#buttons{
+    margin-left: 30px;
+    margin-top: -30px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(159, 155, 155);
+}
+.container{
+    display: flex;
+}
+.text{
+    width: 50%;
+    
+}
+.image{
+    width: 50%;
+  
+}
+.button1{
+    margin-top: -250px;
+}
+
